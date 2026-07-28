@@ -1,0 +1,10 @@
+# Created by TAO Code on first open of an empty repository
+node_modules/
+.venv/
+venv/
+__pycache__/
+*.pyc
+dist/
+build/
+.DS_Store
+.env
